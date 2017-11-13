@@ -27,6 +27,8 @@ Find the median of the two sorted arrays. The overall run time complexity should
 找到两个排序数组的中位数。整体运行时间复杂度应该是O（log（m + n））。
 
 
+### 结果
+
 ```javascript
 
 var findMedianSortedArrays = function(nums1, nums2) {
